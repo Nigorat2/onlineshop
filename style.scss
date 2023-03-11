@@ -1,0 +1,19 @@
+$main-color: red;
+.box {
+  .box1 {
+    color: red;
+    span {
+      color: green;
+    }
+  }
+  .box2 {
+    color:$main-color
+  }
+}
+
+.btn{
+    background-color: $main-color;
+    &:hover{
+        background-color: red;
+    }
+}

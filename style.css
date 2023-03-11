@@ -1,0 +1,16 @@
+.box .box1 {
+  color: red;
+}
+.box .box1 span {
+  color: green;
+}
+.box .box2 {
+  color: red;
+}
+
+.btn {
+  background-color: red;
+}
+.btn:hover {
+  background-color: red;
+}/*# sourceMappingURL=style.css.map */
